@@ -494,5 +494,3 @@ curl -X POST http://localhost:8000/api/v1/inpaint \
 - [DeepFill v2](https://arxiv.org/abs/1806.03589) — Yu et al., ICCV 2019
 
 ---
-
-*Research paper published at International Conference on Deep Learning and Computer Vision, 2026*
